@@ -31,3 +31,17 @@ footer a{
     color: white;
     padding-left: 5px;
 }
+
+h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.destaque{
+    font-style: italic;
+    background-color: rgb(21, 21, 22);
+}
+
+#importante{
+    border-top: 2px solid white;
+}
